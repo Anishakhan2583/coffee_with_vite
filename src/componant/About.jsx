@@ -1,5 +1,5 @@
 import coffeeVideo from '../assets/coffee_animate.mp4'
-import mobileVideo from '../assets/mobileVideo.mp4'
+import mobileVideo from '../assets/mobilevideo.mp4'
 import group from '../assets/group.png'
 export default function About() {
 

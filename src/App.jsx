@@ -1,7 +1,7 @@
 import './App.css'
 import Home from './componant/Home'
 import About from './componant/About'
-import Contact from './componant/Contact'
+import Contact from './componant/contact'
 import Navbar from './componant/Navbar'
 
 import { BrowserRouter,Routes,Route } from 'react-router-dom'
